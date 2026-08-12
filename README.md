@@ -206,9 +206,9 @@ lib/
 
 <td align="center">
 
-### 🛍️ Products
+### 🛍️ Category
 
-<img src="screenshots/products.png" width="250">
+<img src="screenshots/all-category.png" width="250">
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ lib/
 
 ### 🛒 Shopping Cart
 
-<img src="screenshots/cart.png" width="250">
+<img src="screenshots/basket.png" width="250">
 
 </td>
 </tr>
